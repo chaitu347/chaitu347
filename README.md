@@ -234,7 +234,7 @@ graph LR
 
 ## 🎵 **Currently Coding To**
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/spotify-playing)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
+
 
 *When I'm not coding, you can find me exploring new technologies, solving algorithmic challenges, or planning my next project!* 🚀
 
