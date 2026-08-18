@@ -1,253 +1,194 @@
 <div align="center">
-  
-# 👨‍💻 Merugula Chaitanya
 
-### 🚀 Full Stack Developer | React Enthusiast | Problem Solver
+<img src="https://readme-typing-svg.demolab.com?font=Bangers&size=45&duration=3000&pause=800&color=E23636&center=true&vCenter=true&width=800&height=90&lines=YOUR+FRIENDLY+NEIGHBORHOOD;DATA+ANALYST;FULL+STACK+DEVELOPER;POWERED+BY+PYTHON+%26+MERN" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;React+%7C+JavaScript+%7C+Node.js;Always+Learning+New+Technologies;Building+Amazing+User+Experiences" alt="Typing SVG" />
+![Spidey Banner](https://capsule-render.vercel.app/api?type=venom&color=0:0B0B0B,50:E23636,100:1E56A0&height=200&section=header&text=MERUGULA%20CHAITANYA&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=With%20Great%20Data%20Comes%20Great%20Responsibility&descAlignY=58&animation=fadeIn)
 
-</div>
-
----
-
-## 🌟 About Me
-
-```javascript
-const chaitanya = {
-    education: "Graduate in Electronics & Communication Engineering",
-    currentFocus: "Full Stack Web Development",
-    location: "India 🇮🇳",
-    passion: ["Clean Code", "User Experience", "Problem Solving"],
-    currentlyLearning: ["Advanced React Patterns", "Node.js", "Cloud Technologies"],
-    funFact: "I turn coffee into code! ☕➡️💻"
-};
-```
-
-<div align="center">
-
-### 🎯 **"Building the web, one component at a time"**
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="260"/>
 
 </div>
 
 ---
 
-## 🛠️ **Tech Arsenal**
+## 🕸️ Origin Story
+
+> *Bitten by a radioactive dataset during a B.Tech in Electronics & Communication Engineering (2025, CGPA 8.2), I gained the power to swing between two worlds — the sprawling city of **Data Analytics** and the tangled web of **Full Stack Development (MERN)**. By day, I untangle numbers into insight. By night, I spin React components into working products. No dataset too messy, no bug too deep.*
 
 <div align="center">
 
-### **Frontend Magic** ✨
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### **Backend Power** 🔥
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### **Tools & Technologies** 🔧
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+`📍 Vijayawada / Hyderabad, India`  &nbsp;•&nbsp; `🎓 ECE Graduate, 2025`  &nbsp;•&nbsp; `🧪 Ex-Intern @ Expograph`
 
 </div>
 
 ---
 
-## 📊 **GitHub Analytics**
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chaitu347&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitu347&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaitu347&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
----
-
-## 🚀 **Featured Projects**
+## 🕷️ The Suit — Powers & Abilities
 
 <div align="center">
 
-### 🏔️ **Ooty Travels Platform**
-*Modern Travel Booking Experience*
+### 📊 Data-Slinger Arsenal
+![SQL](https://img.shields.io/badge/SQL-E23636?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1E56A0?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-E23636?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-1E56A0?style=for-the-badge&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-E23636?style=for-the-badge&logo=powerbi&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-1E56A0?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-E23636?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+### 🌐 Web-Slinging Kit (MERN)
+![React](https://img.shields.io/badge/React-1E56A0?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-E23636?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-1E56A0?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-E23636?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-1E56A0?style=for-the-badge&logo=mysql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-E23636?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-1E56A0?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E23636?style=for-the-badge&logo=git&logoColor=white)
 
-</div>
+### 🕸️ Currently Weaving a New Web
+![FastAPI](https://img.shields.io/badge/FastAPI-1E56A0?style=for-the-badge&logo=fastapi&logoColor=white)
 
-```
-✨ Responsive travel booking platform with modern UI/UX
-🎯 React hooks & state management for dynamic components  
-📱 Mobile-first responsive design approach
-🔌 REST API integration for real-time data
-⚡ Cross-browser compatibility & performance optimization
-```
-
-<div align="center">
-
-**[🔗 Live Demo](#) | [📝 Source Code](https://github.com/chaitu347/ooty-travels)**
-
----
-
-### ⚖️ **Finvis Legal Services**
-*Professional Consultation Platform*
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-
-</div>
-
-```
-🏛️ Professional lawyer consultation booking system
-📋 Dynamic form validation & submission handling
-💼 Modern component-based architecture
-🎨 Enhanced user experience with ES6+ features
-📱 Fully responsive across all device types
-```
-
-<div align="center">
-
-**[🔗 Live Demo](#) | [📝 Source Code](https://github.com/chaitu347/finvis-associates)**
-
----
-
-### ✅ **Smart Task Manager**
-*Productivity App with Modern Features*
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-
-</div>
-
-```
-📝 Full CRUD functionality with intuitive interface
-💾 Local Storage API for data persistence
-⚡ Performance optimized with modern JavaScript
-🎯 Interactive task management features
-🔄 Real-time updates and DOM manipulation
-```
-
-<div align="center">
-
-**[🔗 Live Demo](#) | [📝 Source Code](https://github.com/chaitu347/todo-app)**
+*"Even Spider-Man had to learn new tricks — I'm currently deep in **FastAPI**, building fast, type-safe, async APIs to connect my data skills with my backend skills into one seamless suit."*
 
 </div>
 
 ---
 
-## 📈 **Skills Proficiency**
+## 🏙️ Missions Completed — Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🕸️ SkillDuel
+**Real-time MERN Matchmaking Platform**
+
+A live skill-matchmaking app built end-to-end on the MERN stack, using Socket.io to power real-time interactions between users — like tracking two web-slingers in the same city grid, live.
+
+`React` `Node.js` `Express` `MongoDB` `Socket.io`
+
+</td>
+<td width="50%" valign="top">
+
+### 🕸️ CloudPulse
+**Monitoring Dashboard**
+
+A full-stack monitoring dashboard for tracking system activity in real time — built to keep a constant "spider-sense" over the data flowing through it.
+
+`React` `Node.js` `Express` `MongoDB`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🕸️ Finvis Associates
+**Live Client Production Website**
+
+A real, shipped website built for an actual client — from first commit to production deployment. Proof the suit works outside the lab.
+
+`React` `Node.js` `Full Stack`
+
+</td>
+<td width="50%" valign="top">
+
+### 🕸️ Ooty Travels
+**Travel Booking Website**
+
+A responsive travel showcase & booking website, designed to take users on a smooth journey from landing page to inquiry.
+
+`HTML` `CSS` `JavaScript` `React`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🕵️ CFPB Consumer Complaint Signal Analysis
+**Data Analyst Project**
+
+Investigated real-world consumer complaint data from the CFPB, uncovering patterns and signals across companies and complaint categories — turning raw civilian reports into actionable insight.
+
+`Python` `Pandas` `SQL` `Power BI`
+
+</td>
+<td width="50%" valign="top">
+
+### 🕵️ Vendor Analysis
+**Data Analyst Project**
+
+End-to-end vendor performance analysis — from raw data to a interactive Power BI dashboard — helping decode which vendors truly deliver.
+
+`Python` `SQL` `Power BI`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" colspan="2">
+
+### 🕵️ Business Data Analysis Dashboard
+**Data Analyst Project**
+
+An interactive business intelligence dashboard translating raw business metrics into a clean, decision-ready visual story.
+
+`Excel` `Power BI` `Tableau`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏢 Field Experience
 
 <div align="center">
 
-| Technology | Proficiency | Experience |
-|------------|-------------|------------|
-| **Frontend Development** | ████████░░ 80% | Building responsive UIs |
-| **React & JavaScript** | ████████░░ 85% | Component architecture |
-| **Database Technologies** | ███████░░░ 75% | SQL optimization |
-| **Problem Solving & DSA** | ███████░░░ 70% | Algorithmic thinking |
-| **REST API Integration** | ██████░░░░ 65% | Backend connectivity |
-| **Version Control (Git)** | ████████░░ 80% | Collaborative development |
+**Frontend Developer Intern** @ **Expograph** *(Remote, Jan – Apr 2026)*
+Worked on real production frontend features using React — sharpening component design, UI implementation, and collaborative dev workflows.
 
 </div>
 
 ---
 
-## 🏆 **Achievements & Certifications**
+## 📡 Spider-Signal — GitHub Stats
 
 <div align="center">
 
-🥇 **HackerRank Gold Badge** - Advanced SQL  
-🥈 **HackerRank Silver Badge** - Java Programming  
-📜 **Data Structures & Algorithms** - Apna College  
-🎯 **Complex Query Optimization** - Database Management  
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=chaitu347&show_icons=true&theme=dark&hide_border=true&title_color=E23636&icon_color=1E56A0&text_color=FFFFFF&bg_color=0D1117"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=chaitu347&theme=dark&hide_border=true&ring=E23636&fire=E23636&currStreakLabel=E23636&background=0D1117"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitu347&layout=compact&theme=dark&hide_border=true&title_color=E23636&text_color=FFFFFF&bg_color=0D1117"/>
 
 </div>
 
 ---
 
-## 🎯 **Current Learning Path**
+## 🎯 Currently Targeting
 
 <div align="center">
 
-```mermaid
-graph LR
-    A[Frontend Mastery] --> B[Backend Development]
-    B --> C[Full Stack Projects]
-    C --> D[Cloud Deployment]
-    D --> E[DevOps Basics]
-    
-    style A fill:#61DAFB
-    style B fill:#68D391
-    style C fill:#F6AD55
-    style D fill:#FC8181
-    style E fill:#B794F6
-```
-
-</div>
-
-### 🌱 **2025 Goals**
-- [ ] Master **Node.js & Express.js** for backend development
-- [ ] Build **5 full-stack applications** with modern tech stack
-- [ ] Learn **TypeScript** for better code quality
-- [ ] Explore **Cloud technologies** (AWS/Azure)
-- [ ] Contribute to **open source projects**
-- [ ] Start a **technical blog** sharing learning journey
-
----
-
-## 🌐 **Let's Connect & Collaborate**
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/merugula-chaitanya)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chaitu347)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaitu347347@gmail.com)
+🕷️ **Data Analyst Roles** — turning raw data into clear, decision-ready insight
+🕷️ **Full Stack (MERN) Developer Roles** — building complete, real-world web products
+🕷️ **Leveling Up** — learning FastAPI to bridge both worlds with fast, modern APIs
 
 </div>
 
 ---
 
-<div align="center">
-
-### 💡 **"Code is like humor. When you have to explain it, it's bad."** 
-
-![Visitor Count](https://komarev.com/ghpvc/?username=chaitu347&style=for-the-badge&color=brightgreen)
-
-</div>
-
----
+## 📞 Connect With Your Friendly Neighborhood Developer
 
 <div align="center">
 
-## 🎵 **Currently Coding To**
+[![Gmail](https://img.shields.io/badge/Gmail-E23636?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaitu347347@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1E56A0?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chaitu347)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chaitu347)
 
-
-
-*When I'm not coding, you can find me exploring new technologies, solving algorithmic challenges, or planning my next project!* 🚀
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
 <div align="center">
 
-**⭐️ From [Merugula Chaitanya](https://github.com/chaitu347) | Building the future, one commit at a time! 🚀**
+![Spidey Footer](https://capsule-render.vercel.app/api?type=venom&color=0:1E56A0,50:E23636,100:0B0B0B&height=120&section=footer)
+
+*"With great data comes great responsibility."* 🕸️
 
 </div>
