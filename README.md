@@ -1,184 +1,124 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:E23636,100:1E56A0&height=260&section=header&text=MERUGULA%20CHAITANYA&fontSize=50&fontColor=FFFFFF&fontAlignY=32&desc=Data%20Analyst%20%7C%20Full%20Stack%20(MERN)%20Developer&descAlignY=52&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0C,100:151516&height=200&section=header&text=Merugula%20Chaitanya&fontSize=48&fontColor=F5F4F0&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=18&descColor=9A9992" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Bangers&size=32&duration=2800&pause=900&color=FFFFFF&background=0D1117&center=true&vCenter=true&width=750&height=70&lines=Swinging+Between+Data+%26+Code;Turning+Raw+Data+Into+Insight;Building+Full+Stack+Web+Apps;Currently+Learning+FastAPI+%F0%9F%95%B8%EF%B8%8F" alt="Typing SVG" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=4ADE80&center=true&vCenter=true&width=600&lines=Building+production-ready+full+stack+apps;React+%2F+Node.js+%2F+TypeScript+%2F+MongoDB;Currently+shipping+RazorLens+%26+Reqora;Open+to+Full+Stack+Developer+roles" alt="Typing SVG" />
+</a>
 
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=chaitu347&color=E23636&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/chaitu347?color=1E56A0&style=for-the-badge&label=FOLLOWERS&logo=github)
-
-</div>
-
-<div align="center">
-
-`📍 Vijayawada / Hyderabad, India`  •  `🎓 B.Tech ECE, 2025 · CGPA 8.2`  •  `🧪 Ex-Intern @ Expograph`
+<p>
+  <a href="mailto:chaitu347347@gmail.com"><img src="https://img.shields.io/badge/Email-chaitu347347%40gmail.com-0B0B0C?style=for-the-badge&logo=gmail&logoColor=4ADE80" /></a>
+  <a href="https://linkedin.com/in/merugula-chaitanya-5044b7272"><img src="https://img.shields.io/badge/LinkedIn-Connect-0B0B0C?style=for-the-badge&logo=linkedin&logoColor=4ADE80" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-Visit-0B0B0C?style=for-the-badge&logo=vercel&logoColor=4ADE80" /></a>
+</p>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,20,20&height=3&width=100%25" width="100%"/>
+<br/>
 
-## 🕸️ Origin Story
+## About
 
-I graduated in Electronics & Communication Engineering in 2025, then pivoted hard into tech — building the kind of dual skill set that lets me swing between two different worlds without missing a beat:
+- 🎓 2025 B.Tech graduate, Electronics & Communication Engineering
+- 💻 Full stack developer focused on **production-grade** web apps, not tutorial projects — auth done properly, signature-verified webhooks, multi-tenant data isolation
+- 🧩 Recently shipped **RazorLens** (live) and **Reqora**, a real-time collaborative API-testing tool
+- 🏢 Frontend Developer Intern at **Expograph** — shipped React components for a live LMS
+- 🌱 Currently deepening TypeScript, Next.js, and system design
+- 📫 Reach me at **chaitu347347@gmail.com**
+- ⚡ Available for Full Stack Developer roles
 
-- 🕵️ **By day** — I dig through messy, real-world data and turn it into dashboards and insights people can actually act on.
-- 🕷️ **By night** — I build complete, working web applications end-to-end on the MERN stack, from database schema to the last pixel of the UI.
+<br/>
 
-Right now I'm adding a new tool to the belt: **FastAPI**, to build fast, type-safe, async APIs that connect both worlds together.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,20,20&height=3&width=100%25" width="100%"/>
-
-## 🕷️ Skills & Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### 📊 Data Analyst Toolkit
-![SQL](https://img.shields.io/badge/SQL-E23636?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-1E56A0?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-E23636?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-1E56A0?style=for-the-badge&logo=numpy&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-E23636?style=for-the-badge&logo=powerbi&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-1E56A0?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-E23636?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
-### 🌐 Full Stack (MERN) Toolkit
-![React](https://img.shields.io/badge/React-1E56A0?style=for-the-badge&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-E23636?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-1E56A0?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-E23636?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-1E56A0?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-E23636?style=for-the-badge&logo=javascript&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-1E56A0?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-E23636?style=for-the-badge&logo=socketdotio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-1E56A0?style=for-the-badge&logo=git&logoColor=white)
-
-### 🕸️ Currently Learning
-![FastAPI](https://img.shields.io/badge/FastAPI-E23636?style=for-the-badge&logo=fastapi&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,js,ts,react,nextjs,nodejs,express,mongodb,mysql,html,css,tailwind,bootstrap,git,github,postman,figma&theme=dark" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,20,20&height=3&width=100%25" width="100%"/>
+<br/>
 
-## 🏙️ Featured Projects
+## Featured Projects
 
-### 🕸️ SkillDuel — Real-Time MERN Matchmaking Platform
-A live skill-matchmaking app built end-to-end on the MERN stack. Users get matched and interact in real time, with **Socket.io** powering instant updates without page refreshes.
-- Designed the matchmaking logic and real-time event system
-- Built RESTful APIs with Express and Node.js, backed by MongoDB
-- Focused on low-latency, live user-to-user interaction
+<table>
+<tr>
+<td width="50%" valign="top">
 
-`React` `Node.js` `Express` `MongoDB` `Socket.io`
+### 🔗 [RazorLens](https://razorlens.vercel.app)
+A webhook inspection and debugging tool for Razorpay integrations. Every user gets a signature-verified endpoint that logs and displays every webhook event, live.
 
----
+**Stack:** Next.js · TypeScript · Express · MongoDB · JWT
 
-### 🕸️ CloudPulse — Monitoring Dashboard
-A full-stack dashboard for tracking system activity and metrics in real time, giving users a constant pulse on what's happening under the hood.
-- Built a responsive React dashboard consuming live data from a Node/Express backend
-- Structured MongoDB schemas for efficient metric storage and retrieval
+- HMAC-SHA256 signature verification on raw request bytes
+- Multi-tenant: isolated webhook secrets per user
+- Full event logging, valid *and* rejected signatures
 
-`React` `Node.js` `Express` `MongoDB`
+</td>
+<td width="50%" valign="top">
 
----
+### 🔗 [Reqora](https://github.com/chaitu347/Reqora)
+A live, collaborative API-testing tool in the spirit of Postman, with real-time collaboration and secured request endpoints.
 
-### 🕸️ Finvis Associates — Live Client Production Website
-A real website built and shipped for an actual client, from first commit to a live, production deployment — not just a portfolio demo.
-- Handled the full build: frontend UI, functionality, and deployment
-- Worked directly with client requirements and revisions
+**Stack:** TypeScript · Next.js · MongoDB · Express
 
-`React` `Node.js` `Full Stack Deployment`
+- Real-time collaborative request editing
+- Authenticated, per-user request execution
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 🕸️ Ooty Travels — Travel Booking Website
-A responsive travel showcase and booking website designed to guide users smoothly from landing page to inquiry.
-- Built a clean, mobile-responsive UI with React
-- Focused on intuitive navigation and conversion-friendly layout
+### 🔗 SkillDuel
+Real-time 1v1 study/skill-battle platform with live matches and progress tracking.
 
-`HTML` `CSS` `JavaScript` `React`
+**Stack:** React · TypeScript · Node.js · Socket.io · JWT
 
----
+- Real-time state sync via Socket.io with reconnect handling
+- Monorepo structure, shared types across client/server
 
-### 🕵️ CFPB Consumer Complaint Signal Analysis — Data Analyst Project
-Analyzed real-world Consumer Financial Protection Bureau complaint data to uncover patterns across companies, products, and complaint categories.
-- Cleaned and processed large-scale complaint data with Python (Pandas)
-- Queried and aggregated trends using SQL
-- Visualized company- and category-level complaint signals in Power BI
+</td>
+<td width="50%" valign="top">
 
-`Python` `Pandas` `SQL` `Power BI`
+### 🔗 CloudPulse
+Infrastructure monitoring dashboard ingesting live metrics from multiple simulated servers.
 
----
+**Stack:** React · Node.js · Express · MySQL · Chart.js
 
-### 🕵️ Vendor Analysis — Data Analyst Project
-An end-to-end analysis of vendor performance, from raw data to a fully interactive dashboard, aimed at identifying which vendors actually deliver value.
-- Built the data pipeline from raw source to clean, analysis-ready tables
-- Designed an interactive Power BI dashboard for vendor comparison
+- Multi-server agent architecture
+- Live CPU/memory/uptime trend visualization
 
-`Python` `SQL` `Power BI`
+</td>
+</tr>
+</table>
 
----
+<div align="center">
+<sub>More on <a href="#">my portfolio</a> — Finvis Associates (live client site), Apply Assistant (Chrome extension), TOONHUB, and in-progress builds.</sub>
+</div>
 
-### 🕵️ Business Data Analysis Dashboard — Data Analyst Project
-An interactive business intelligence dashboard translating raw business metrics into a clear, decision-ready visual story for stakeholders.
-- Modeled and structured business data in Excel
-- Built interactive visuals and drill-downs in Power BI / Tableau
+<br/>
 
-`Excel` `Power BI` `Tableau`
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,20,20&height=3&width=100%25" width="100%"/>
-
-## 🏢 Experience
-
-**Frontend Developer Intern — Expograph** *(Remote, Jan – Apr 2026)*
-Worked on real production frontend features using React, sharpening my component design, UI implementation, and collaborative dev workflow skills in an actual team setting.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,20,20&height=3&width=100%25" width="100%"/>
-
-## 📡 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=chaitu347&show_icons=true&theme=radical&hide_border=true&title_color=E23636&icon_color=1E56A0&text_color=FFFFFF&bg_color=0D1117"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=chaitu347&theme=radical&hide_border=true&ring=E23636&fire=E23636&currStreakLabel=E23636&background=0D1117"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=chaitu347&show_icons=true&theme=dark&bg_color=0B0B0C&title_color=4ADE80&icon_color=4ADE80&text_color=9A9992&border_color=232324&hide_border=false" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitu347&layout=compact&theme=dark&bg_color=0B0B0C&title_color=4ADE80&text_color=9A9992&border_color=232324&hide_border=false" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitu347&layout=compact&theme=radical&hide_border=true&title_color=E23636&text_color=FFFFFF&bg_color=0D1117"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chaitu347&theme=dark&background=0B0B0C&ring=4ADE80&fire=4ADE80&currStreakLabel=4ADE80&border=232324" />
 
 </div>
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=chaitu347&theme=radical&no-frame=true&margin-w=10&row=1&column=6" />
-
-</div>
-
-> 💡 **Tip:** The stats/trophy/streak widgets above pull live from your GitHub username automatically — just make sure `chaitu347` matches your exact GitHub handle and they'll always stay current, no manual updates needed.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,20,20&height=3&width=100%25" width="100%"/>
-
-## 🎯 Currently
-
-- 🔭 Actively applying for **Data Analyst** and **Full Stack (MERN) Developer** fresher roles across India
-- 🌱 Learning **FastAPI** to build fast, async, type-safe backend APIs
-- 🤝 Open to internships, freelance projects, and full-time opportunities
-- ⚡ Fun fact: I graduated in Electronics & Communication Engineering, not CS — everything on this page was self-driven
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,20,20&height=3&width=100%25" width="100%"/>
-
-## 📞 Let's Connect
+<br/>
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-E23636?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaitu347347@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1E56A0?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chaitu347)
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chaitu347)
+### Let's build something together
 
-</div>
+<a href="mailto:chaitu347347@gmail.com"><img src="https://img.shields.io/badge/Get_in_Touch-4ADE80?style=for-the-badge&logo=gmail&logoColor=0B0B0C" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E56A0,50:E23636,100:0D1117&height=150&section=footer" width="100%"/>
+<br/><br/>
 
-<div align="center">
-
-**"With great data comes great responsibility."** 🕸️
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:151516,100:0B0B0C&height=100&section=footer" width="100%"/>
 
 </div>
