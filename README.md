@@ -9,8 +9,6 @@
 - 🎓 2025 B.Tech graduate, Electronics & Communication Engineering
 - 💼 Open to Full Stack Developer roles
 - 📫 Reach me at **chaitu347347@gmail.com**
-- ⚡ Fun fact: `[add one here — genuinely yours, not something I should invent for you]`
-
 <br/>
 
 Ever since I started building my first React components, I've been drawn to the part of software most people never see: the server quietly verifying a signature, the database schema deciding what's even possible on the frontend, the auth middleware standing between a request and the data it's asking for. That's usually where I end up spending most of my time on a project, even the ones that start as "just a frontend task."
